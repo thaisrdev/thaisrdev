@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thais</h1>
 <h3 align="center">A full-stack web development student from Brazil</h3>
 
-- 🌱 I’m currently learning **Docker, MySQL, Node.js, TypeScript and MongoDB**
+- 🌱 I’m currently learning **Docker, MySQL, Node.js, TypeScript and Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
