@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thais</h1>
 <h3 align="center">A full-stack web developer from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/thais-souza-rosa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="mailto:tsrosa18@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Main Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Main Languages and Tools:</h3>
+<p align="center"> 
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
