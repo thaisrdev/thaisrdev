@@ -37,6 +37,7 @@
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40" /> </a>
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40" /> </a>
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40" /> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="MongoDB" width="40" height="40" /> </a>
 </div>
 
 <hr>
